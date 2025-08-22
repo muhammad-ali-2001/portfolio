@@ -52,13 +52,13 @@ const AboutSection = ({ totalExperience }: AboutSectionProps) => {
                 <h5 className="font-semibold">
                   Bachelor of Software Engineering
                 </h5>
-                <p className="text-gray-600">Minhaj University Lahore</p>
-                <p className="text-sm text-gray-500">2017 - 2021</p>
+                <p className="text-gray-600">Comsats University Islamabad</p>
+                <p className="text-sm text-gray-500">2020-2024</p>
               </div>
               <div className="border-l-4 border-purple-500 pl-4">
                 <h5 className="font-semibold">Intermediate</h5>
-                <p className="text-gray-600">Islamia College Karachi</p>
-                <p className="text-sm text-gray-500">2015 - 2017</p>
+                <p className="text-gray-600">Fauji Foundation New Lalazar </p>
+                <p className="text-sm text-gray-500">2017-2019</p>
               </div>
             </div>
           </div>
