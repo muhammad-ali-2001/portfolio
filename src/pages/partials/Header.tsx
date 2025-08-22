@@ -8,7 +8,7 @@ const Header = () => {
       <div className="max-w-6xl mx-auto px-6 py-4">
         <div className="flex justify-between items-center">
           <div className="text-2xl font-bold bg-gradient-to-r from-blue-600 to-purple-600 bg-clip-text text-transparent">
-            QH
+            MAS
           </div>
           <div className="hidden md:flex space-x-8">
             {[
