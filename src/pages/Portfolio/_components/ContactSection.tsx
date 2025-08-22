@@ -18,7 +18,7 @@ const ContactSection = () => {
   const onSubmit = (data: ContactFormData) => {
     const { name, email, subject, message } = data;
 
-    const mailtoLink = `mailto:qaiserhabib6@gmail.com?subject=${encodeURIComponent(
+    const mailtoLink = `mailto:muhammad9000ali@gmail.com?subject=${encodeURIComponent(
       subject
     )}&body=${encodeURIComponent(
       `Name: ${name}\nEmail: ${email}\n\nMessage:\n${message}`
@@ -66,10 +66,10 @@ const ContactSection = () => {
                 <div>
                   <h4 className="font-semibold text-gray-800">Email</h4>
                   <a
-                    href="mailto:qaiserhabib6@gmail.com"
+                    href="mailto:muhammad9000ali@gmail.com"
                     className="text-blue-600 hover:text-blue-800 transition-colors"
                   >
-                    qaiserhabib6@gmail.com
+                    muhammad9000ali@gmail.com
                   </a>
                 </div>
               </div>
@@ -81,10 +81,10 @@ const ContactSection = () => {
                 <div>
                   <h4 className="font-semibold text-gray-800">Whatsapp</h4>
                   <a
-                    href="https://wa.me/923022630092"
+                    href="https://wa.me/923486582315"
                     className="text-green-600 hover:text-green-800 transition-colors"
                   >
-                    +92 302 2630092
+                    +92 348 6582315
                   </a>
                 </div>
               </div>
@@ -96,12 +96,12 @@ const ContactSection = () => {
                 <div>
                   <h4 className="font-semibold text-gray-800">LinkedIn</h4>
                   <a
-                    href="https://www.linkedin.com/in/qaisar-habib-827075203/"
+                    href="https://www.linkedin.com/in/muhammad-ali-sheikh001/"
                     target="_blank"
                     rel="noreferrer"
                     className="text-blue-700 hover:text-blue-900 transition-colors"
                   >
-                    linkedin.com/in/qaiserhabib
+                    linkedin.com/in/muhammad-ali-sheikh001
                   </a>
                 </div>
               </div>
@@ -228,7 +228,7 @@ const ContactSection = () => {
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <a
-              href="mailto:qaiserhabib6@gmail.com"
+              href="mailto:muhammad9000ali@gmail.com"
               className="bg-white text-purple-600 px-8 py-3 rounded-full font-semibold hover:bg-gray-100 transition-colors inline-flex items-center justify-center space-x-2"
             >
               <i className="fas fa-envelope"></i>
