@@ -2,7 +2,7 @@ const SocialLinks = ({ className }: { className: string }) => {
   return (
     <div className={`flex justify-center space-x-6 ${className}`}>
       <a
-        href="mailto:qaiserhabib6@gmail.com"
+        href="mailto:muhammad9000ali@gmail.com"
         className="text-2xl hover:text-blue-400 transition-colors"
       >
         <i className="fas fa-envelope" />
@@ -16,21 +16,21 @@ const SocialLinks = ({ className }: { className: string }) => {
         <i className="fa-brands fa-github"></i>
       </a>
       <a
-        href="https://www.linkedin.com/in/qaisar-habib-827075203/"
+        href="https://www.linkedin.com/in/muhammad-ali-sheikh001/"
         target="_blank"
         className="text-2xl hover:text-blue-400 transition-colors"
       >
         <i className="fab fa-linkedin" />
       </a>
       <a
-        href="https://wa.me/923022630092"
+        href="https://wa.me/923486582315"
         target="_blank"
         className="text-2xl hover:text-blue-400 transition-colors"
       >
         <i className="fa-brands fa-whatsapp" />
       </a>
       <a
-        href="tel:03022630092"
+        href="tel:03486582315"
         className="text-2xl hover:text-blue-400 transition-colors"
       >
         <i className="fas fa-phone" />
