@@ -22,12 +22,12 @@ const HeroSection = ({ totalExperience }: HeroSectionProps) => {
             <ImageLoader
               src={profile}
               className="size-30 object-cover rounded-full"
-              alt="Qaiser Habib"
+              alt="Muhammad Ali Sheikh"
             />
           </div>
         </div>
         <h1 className="text-3xl sm:text-5xl lg:text-7xl font-bold mb-4">
-          QAISER HABIB
+          MUHAMMAD ALI SHEIKH
         </h1>
         <div className="text-xl md:text-2xl mb-6">MERN Stack Developer</div>
         <p className="text-lg md:text-xl mb-8 max-w-2xl mx-auto opacity-90">
