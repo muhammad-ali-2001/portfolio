@@ -9,7 +9,7 @@ const Footer = () => {
       <div className="max-w-6xl mx-auto px-6">
         <div className="text-center">
           <div className="text-3xl font-bold gradient-bg bg-clip-text text-transparent mb-4">
-            QH
+            MAS
           </div>
           <p className="text-gray-400 mb-6">
             MERN Stack Developer passionate about creating amazing web
@@ -18,7 +18,7 @@ const Footer = () => {
           <SocialLinks className="mb-8" />
           <div className="border-t border-gray-800 pt-8">
             <p className="text-gray-400">
-              © {currentYear} Qaiser Habib. All rights reserved. Built with
+              © {currentYear} Muhammad Ali Sheikh. All rights reserved. Built with
               passion and modern web technologies.
             </p>
           </div>
