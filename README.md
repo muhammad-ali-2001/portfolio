@@ -35,7 +35,7 @@ It showcases my background, skills, work experience, and featured projects as a 
 Clone the repository:
 
 ```bash
-git clone https://github.com/qaiser1Habib/ReactTailwind-Portfolio.git
+git clone https://github.com/muhammad-ali-2001/ReactTailwind-Portfolio.git
 cd ReactTailwind-Portfolio
 ```
 
@@ -51,6 +51,6 @@ Then visit `http://localhost:5173`.
 
 ## 📬 Contact
 
-- **Email:** [qaiserhabib6@gmail.com](mailto:qaiserhabib6@gmail.com)  
-- **LinkedIn:** [linkedin.com/in/qaisar-habib-827075203](https://www.linkedin.com/in/qaisar-habib-827075203/)  
-- **WhatsApp:** [+92 302 2630092](https://wa.me/923022630092)  
+- **Email:** [muhammad9000ali@gmail.com](mailto:muhammad9000ali@gmail.com)  
+- **LinkedIn:** [https://www.linkedin.com/in/muhammad-ali-sheikh001/](https://www.linkedin.com/in/muhammad-ali-sheikh001/)  
+- **WhatsApp:** [+92 348 6582315](https://wa.me/923486582315)  

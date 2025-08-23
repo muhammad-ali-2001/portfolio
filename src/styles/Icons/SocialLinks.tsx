@@ -8,7 +8,7 @@ const SocialLinks = ({ className }: { className: string }) => {
         <i className="fas fa-envelope" />
       </a>
       <a
-        href="https://github.com/qaiser1Habib"
+        href="https://github.com/muhammad-ali-2001"
         target="_blank"
         rel="noopener noreferrer"
         className="text-2xl hover:scale-110 transition-transform"
