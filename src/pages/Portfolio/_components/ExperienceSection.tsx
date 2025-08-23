@@ -21,7 +21,7 @@ const ExperienceSection = () => {
                 <span className="bg-green-100 text-green-800 px-3 py-1 rounded-full text-sm mr-2">
                   Current
                 </span>
-                <div className="mt-1">March 2025 - Present</div>
+                <div className="mt-1">March 2024 - Present</div>
               </div>
             </div>
             <ul className="text-gray-600 space-y-2">
@@ -80,9 +80,9 @@ const ExperienceSection = () => {
             <div className="flex flex-col md:flex-row justify-between items-start mb-4">
               <div>
                 <h3 className="text-2xl font-semibold text-gray-800">
-                  Frontend Developer Intern
+                  Frontend Developer (Remote)
                 </h3>
-                <p className="text-blue-600 font-medium">SoftRobo (LAHORE)</p>
+                <p className="text-blue-600 font-medium">Advance - Coding Experts (Leiria, Portugal)</p>
               </div>
               <div className="text-gray-500 mt-2 md:mt-0">
                 September 2022 - February 2023
