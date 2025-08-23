@@ -50,7 +50,7 @@ const ExperienceSection = () => {
                   MERN Stack Developer
                 </h3>
                 <p className="text-blue-600 font-medium">
-                  Single Solution (LAHORE)
+                  Sms Heg Pakistan
                 </p>
               </div>
               <div className="text-gray-500 mt-2 md:mt-0">
